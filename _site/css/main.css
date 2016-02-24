@@ -469,6 +469,9 @@ footer {
 #sidebar {
   text-align: right; }
 
+.post-list {
+  margin-top: 10px; }
+
 .post-list a {
   color: #fff;
   text-transform: uppercase;
