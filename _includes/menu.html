@@ -1,16 +1,14 @@
 <ul class="post-list">
   <li>
-    <span class="post-meta">{{ site.posts.first.date | date: "%b %-d, %Y" }}</span>
-    <h2>
-      <a class="post-link" href="{{ site.posts.first.url | prepend: site.baseurl }}">Next event</a>
+    <h2 class="next-event-link">
+
+      <a class="post-link {%if page.url == "/" %}active{% endif %}" href="{{ site.baseurl }}/">Next event</a>
     </h2>
   </li>
-  {% for post in site.posts offset: 1 %}
   <li>
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
+    <h2><a href="mailto:gestalta@soapboxshibari.com" class="post-link">Contact</a></h2>
   </li>
-  {% endfor %}
+  <li>
+    <h2><a class="post-link {%if page.url == "/past-events.html" %}active{% endif %}" href="{{ "/past-events.html" | prepend: site.baseurl }}">Past events</a></h2>
+  </li>
 </ul>

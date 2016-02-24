@@ -6,16 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: The Soap Box
+email: gestalta@soapboxshibari.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Soapbox is a regular night of rope and more at Anatomie Studio, London
 baseurl: /soapbox # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://gestalta.github.io" # the base hostname & protocol for your site
+twitter_username: gestalta
+github_username:  gestalta
 
 # Build settings
 markdown: kramdown

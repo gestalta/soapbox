@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<ul class="post-list">
+  <li>
+    <h2 class="next-event-link">
+      <a class="post-link" href="{{ site.posts.first.url | prepend: site.baseurl }}">Next event</a>
+    </h2>
+  </li>
+  <li>
+    <h2><a href="mailto:gestalta@soapboxshibari.com" class="post-link">Contact</a></h2>
+  </li>
+  <li>
+    <h2 class="menu-divider">Past events</h2>
+  </li>
+  {% for post in site.posts offset: 1 %}
+  <li>
+    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+  </li>
+  {% endfor %}
+</ul>
