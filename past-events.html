@@ -4,9 +4,9 @@ layout: default
 
 {% for post in site.posts %}
 {% if site.time > post.date %}
-<div class="row past-event-summary">
-  <div class="col-md-4">
     <a href="{{ post.url | prepend: site.baseurl }}">
+<div class="row past-event-summary">
+  <div class="col-md-4 past-event-summary-title">
     <span>
       {% assign d = post.date | date: "%-d" %}
       {% case d %}
@@ -16,17 +16,16 @@ layout: default
       {% else %}{{ d }}th
       {% endcase %}
       {{ post.date | date: "%b %Y" }}
-      <br/>
-        {{ post.title }}
+      {{ post.title }}
     </span>
-    </a>
   </div>
   <div class="col-md-8">
-    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+    <!-- <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> -->
       <img src="{{ post.flyer }}" />
-    </a>
+    <!-- </a> -->
   </div>
 </div>
+    </a>
 <hr class="post-separator">
 {% endif %}
 {% endfor %}
