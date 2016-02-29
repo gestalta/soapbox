@@ -1,14 +1,34 @@
+{% comment %} Default to "unknown" {% endcomment %}
+{% assign active_page = "unknown" %}
+
+{% comment %} If the page is in the "shows" category, assume it's a past event {% endcomment %}
+{% for c in page.categories %}
+  {% if c == "shows" %}
+    {% assign active_page = "past-events" %}
+  {% endif %}
+{% endfor %}
+
+{% comment %} Otherwise set the active_page based on the URL {% endcomment %}
+{% if page.url == "/" %}
+  {% assign active_page = "next-event" %}
+{% elsif page.url == "/contact.html" %}
+  {% assign active_page = "contact" %}
+{% elsif page.url == "/past-events.html" %}
+  {% assign active_page = "past-events" %}
+{% endif %}
+
 <ul class="post-list">
   <li>
     <h2 class="next-event-link">
-
-      <a class="post-link {%if page.url == "/" %}active{% endif %}" href="{{ site.baseurl }}/">Next event</a>
+      <a class="post-link {%if active_page == "next-event" %}active{% endif %}" href="{{ site.baseurl }}/">Next event</a>
     </h2>
   </li>
   <li>
-    <h2><a href="mailto:gestalta@soapboxshibari.com" class="post-link">Contact</a></h2>
+    <h2 class="next-event-link">
+      <a class="post-link {%if active_page == "contact" %}active{% endif %}" href="{{ "/contact.html" | prepend: site.baseurl }}">Contact</a>
+    </h2>
   </li>
   <li>
-    <h2><a class="post-link {%if page.url == "/past-events.html" %}active{% endif %}" href="{{ "/past-events.html" | prepend: site.baseurl }}">Past events</a></h2>
+    <h2><a class="post-link {%if active_page == "past-events" %}active{% endif %}" href="{{ "/past-events.html" | prepend: site.baseurl }}">Past events</a></h2>
   </li>
 </ul>

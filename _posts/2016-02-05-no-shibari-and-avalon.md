@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "No Shibari & Avalon"
+title:  Alberto NoShibari & Kuss // Avalon & Laura Cylon
 date:   2016-02-05 19:30 +0000
+flyer: img/1/avalonandnoshibari.jpg
+category:
+ - shows
 ---
+
+![Alberto NoShibari & Kuss // Avalon & Laura Cylon]({{ site.baseurl }}/img/1/avalonandnoshibari.jpg)
 
 # Alberto Noshibari & Kuss
 
-![Alberto No Shibari & Kuss]({{ site.baseurl }}/img/1/noshibari.jpg)
 
 ![Alberto No Shibari & Kuss]({{ site.baseurl }}/img/1/noshibari2.jpg)
 

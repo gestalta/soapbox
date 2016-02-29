@@ -457,17 +457,30 @@ pre {
 @font-face {
   font-family: Jaapokki;
   src: url("/soapbox/fonts/Jaapokki-Regular.otf") format("opentype"); }
+@font-face {
+  font-family: Myriad;
+  src: url("/soapbox/fonts/Myriad Roman.otf") format("opentype"); }
 html, body {
   background: url("/soapbox/img/texture.jpg");
   padding-top: 1em;
-  font-family: Jaapokki; }
+  font-family: Myriad; }
 
 footer {
+  text-transform: uppercase;
   text-align: center;
-  color: #666; }
+  color: #5d5d5d; }
 
 #sidebar {
+  text-align: right;
+  font-family: Jaapokki; }
+
+.post {
+  color: #5d5d5d;
   text-align: right; }
+
+.post h1 {
+  text-transform: uppercase;
+  font-size: 1em; }
 
 .post-list {
   margin-top: 10px; }
@@ -493,3 +506,20 @@ footer {
 
 .post-content img {
   width: 100%; }
+
+.post-separator {
+  margin: 15px 0; }
+
+.past-event-summary {
+  text-transform: uppercase;
+  color: #5d5d5d; }
+
+.past-event-summary a {
+  color: #5d5d5d;
+  font-size: 1em; }
+
+.past-event-summary a:hover {
+  color: #fff; }
+
+.contact-details, .contact-details a {
+  color: #5d5d5d; }
