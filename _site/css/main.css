@@ -468,7 +468,8 @@ html, body {
 footer {
   text-transform: uppercase;
   text-align: center;
-  color: #5d5d5d; }
+  color: #5d5d5d;
+  padding-bottom: 25px; }
 
 #sidebar {
   text-align: right;
