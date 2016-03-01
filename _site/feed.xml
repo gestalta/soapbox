@@ -1,31 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>The Soap Box</title>
+    <description>The Soapbox is a regular night of rope and more at Anatomie Studio, London
 </description>
-    <link>http://yourdomain.com/soapbox/</link>
-    <atom:link href="http://yourdomain.com/soapbox/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Feb 2016 22:30:36 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Feb 2016 22:30:36 +0000</lastBuildDate>
+    <link>http://gestalta.github.io/soapbox/</link>
+    <atom:link href="http://gestalta.github.io/soapbox/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 01 Mar 2016 22:40:05 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Mar 2016 22:40:05 +0000</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
-    
-      <item>
-        <title>Someone someone</title>
-        <description>&lt;h1 id=&quot;someone-someone&quot;&gt;Someone someone&lt;/h1&gt;
-
-&lt;p&gt;this is a &lt;a href=&quot;http://gestalta.co.uk&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;more-people&quot;&gt;More people&lt;/h1&gt;
-</description>
-        <pubDate>Fri, 01 Apr 2016 20:30:00 +0100</pubDate>
-        <link>http://yourdomain.com/soapbox/shows/2016/04/01/someone-someone.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/soapbox/shows/2016/04/01/someone-someone.html</guid>
-        
-        
-        <category>shows</category>
-        
-      </item>
     
       <item>
         <title>Alberto NoShibari &amp; Kuss // Avalon &amp; Laura Cylon</title>
@@ -56,8 +39,8 @@
 &lt;p&gt;&lt;img src=&quot;/soapbox/img/1/avalon-rope.jpg&quot; alt=&quot;Avalon &amp;amp; Laura&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 Feb 2016 19:30:00 +0000</pubDate>
-        <link>http://yourdomain.com/soapbox/shows/2016/02/05/no-shibari-and-avalon.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/soapbox/shows/2016/02/05/no-shibari-and-avalon.html</guid>
+        <link>http://gestalta.github.io/soapbox/shows/2016/02/05/no-shibari-and-avalon.html</link>
+        <guid isPermaLink="true">http://gestalta.github.io/soapbox/shows/2016/02/05/no-shibari-and-avalon.html</guid>
         
         
         <category>shows</category>

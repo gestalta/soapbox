@@ -11,7 +11,7 @@
 {% comment %} Otherwise set the active_page based on the URL {% endcomment %}
 {% if page.url == "/" %}
   {% assign active_page = "next-event" %}
-{% elsif page.url == "/about.html" %}
+{% elsif page.url == "/about/" %}
   {% assign active_page = "about" %}
 {% elsif page.url == "/past-events.html" %}
   {% assign active_page = "past-events" %}
@@ -25,7 +25,7 @@
   </li>
   <li>
     <h2 class="next-event-link">
-      <a class="post-link {%if active_page == "about" %}active{% endif %}" href="{{ "/about.html" | prepend: site.baseurl }}">About</a>
+      <a class="post-link {%if active_page == "about" %}active{% endif %}" href="{{ "/about/" | prepend: site.baseurl }}">About</a>
     </h2>
   </li>
   <li>
