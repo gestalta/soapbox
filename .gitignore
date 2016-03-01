@@ -1,0 +1,12 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+.DS_Store
+
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
