@@ -7,19 +7,15 @@ category:
  - shows
 ---
 
-# Alberto Noshibari & Kuss
+# Alberto No Shibari & Kuss
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar neque massa. Vivamus ac justo non magna maximus congue. Vivamus id ante felis. Praesent vitae volutpat massa. Suspendisse ac tellus massa. Proin dignissim eget justo sed dignissim. Donec sit amet mauris metus.
+After starting as Shibari students emulating traditional techniques in their shows, Alberto No Shibari and Kuss began the search for a structure for their own performances. In this search, they translated the influence of the essential elements of Japanese bondage to the imagery and tradition of their own visual culture.
 
-# Gestalta
+Inspired by the Western artistic representations and the need to create a scene to convey emotional intensity from the outset, they have created a number of innovative techniques to maximize the deep togetherness achieved along years of work on stage.
 
-Maecenas non sodales ligula, a molestie urna. Nulla ipsum dolor, blandit in dignissim et, porta vitae risus. Donec arcu libero, eleifend a ullamcorper at, suscipit ac erat. Maecenas rutrum tristique sagittis. Donec sollicitudin, lorem in hendrerit dapibus, turpis quam imperdiet lectus, eget feugiat sem est id urna. Vestibulum pellentesque scelerisque efficitur. Proin purus risus, pharetra a tortor sit amet, dignissim varius nunc. Donec ac sodales nulla, nec dignissim lacus.
-
-Nam varius aliquam sollicitudin. Maecenas tempor, nisl vitae pellentesque iaculis, justo massa vulputate elit, ac fermentum ipsum lacus bibendum eros. Nam tempor sed sem consequat commodo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut lacinia aliquam nibh vitae semper. Phasellus ultricies, justo quis molestie varius, erat risus blandit nunc, eget dignissim ligula nulla in nunc. Fusce consequat hendrerit purus, ut lacinia mauris bibendum sit amet. Morbi eget justo et ante fringilla lobortis maximus sed ipsum. Nam risus elit, venenatis sit amet vehicula et, ultricies sed urna. Phasellus et erat urna. Nullam viverra orci a mattis ullamcorper. Maecenas eleifend ullamcorper blandit. Nulla nec facilisis nisl.
+Always accompanied by a carefully chosen sound environment and away from the usual skilled riggers, acrobatic models, and mainstream semenawa Alberto No Shibari and Kuss create a minimalist scene in which the communication, emotion, expressionist ties, mix in exact proportion to achieve moments of intense beauty.
 
 ![Alberto No Shibari & Kuss]({{ site.baseurl }}/img/1/noshibari2.jpg)
-
-Nam varius aliquam sollicitudin. Maecenas tempor, nisl vitae pellentesque iaculis, justo massa vulputate elit, ac fermentum ipsum lacus bibendum eros. Nam tempor sed sem consequat commodo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut lacinia aliquam nibh vitae semper. Phasellus ultricies, justo quis molestie varius, erat risus blandit nunc, eget dignissim ligula nulla in nunc. Fusce consequat hendrerit purus, ut lacinia mauris bibendum sit amet. Morbi eget justo et ante fringilla lobortis maximus sed ipsum. Nam risus elit, venenatis sit amet vehicula et, ultricies sed urna. Phasellus et erat urna. Nullam viverra orci a mattis ullamcorper. Maecenas eleifend ullamcorper blandit. Nulla nec facilisis nisl.
 
 ![Alberto No Shibari & Kuss]({{ site.baseurl }}/img/1/noshibari3.jpg)
 
@@ -28,6 +24,15 @@ Nam varius aliquam sollicitudin. Maecenas tempor, nisl vitae pellentesque iaculi
 ![Alberto No Shibari & Kuss]({{ site.baseurl }}/img/1/noshibari5.jpg)
 
 # Avalon & Laura Cylon
+
+
+Avalon is an Italian/Australian rigger known for his sensual and attentive bondage. He has been involved in BDSM for over 20 years and has been fascinated by the intrinsic beauty of Japanese Rope Bondage since seeing a Japanese bondage show in Paris in the 80′s.
+
+In his pursuit to improve his skills and knowledge in Japanese Rope Bondage he often travels to Japan as student of Osada Steve and Yukimura Haruki.
+
+Avalon has developed his own distinctive style, his work is fluid and sensory, relying on triggers and sensitivities of his model to lull them into a forbidden world. His style keeps faith to traditional Japanese bondage where mind, edge and predicament play are key factors of the tying process.
+
+Avalon is active within the Australian and Italian Japanese Rope Bondage Community, he is a one of the instructors at Sydney Rope Dojo, Peer Rope and often performs and conducts Japanese rope workshops throughout Australia and overseas.
 
 ![Avalon & Laura]({{ site.baseurl }}/img/1/avalon-and-laura.jpg)
 
