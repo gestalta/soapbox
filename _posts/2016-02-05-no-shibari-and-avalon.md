@@ -37,3 +37,12 @@ Avalon is active within the Australian and Italian Japanese Rope Bondage Communi
 ![Avalon & Laura]({{ site.baseurl }}/img/1/avalon-and-laura.jpg)
 
 ![Avalon & Laura]({{ site.baseurl }}/img/1/avalon-rope.jpg)
+
+![No Shibari & Kuss - Shibari performance at The Soap Box]({{ site.baseurl }}/img/1/_DSC0568)
+![No Shibari & Kuss - Shibari performance at The Soap Box]({{ site.baseurl }}/img/1/_DSC0582)
+![No Shibari & Kuss - Shibari performance at The Soap Box]({{ site.baseurl }}/img/1/_DSC0588)
+![No Shibari & Kuss - Shibari performance at The Soap Box]({{ site.baseurl }}/img/1/_DSC0626)
+![No Shibari & Kuss - Shibari performance at The Soap Box]({{ site.baseurl }}/img/1/_DSC0659)
+![No Shibari & Kuss - Shibari performance at The Soap Box]({{ site.baseurl }}/img/1/_DSC0668)
+![No Shibari & Kuss - Shibari performance at The Soap Box]({{ site.baseurl }}/img/1/_DSC0683)
+![No Shibari & Kuss - Shibari performance at The Soap Box]({{ site.baseurl }}/img/1/_DSC0694)
