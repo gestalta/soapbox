@@ -7,6 +7,10 @@ category:
  - shows
 ---
 
+<div class="video-wrapper">
+  <iframe src="https://player.vimeo.com/video/15404282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
 # Alberto No Shibari & Kuss
 
 After starting as Shibari students emulating traditional techniques in their shows, Alberto No Shibari and Kuss began the search for a structure for their own performances. In this search, they translated the influence of the essential elements of Japanese bondage to the imagery and tradition of their own visual culture.
