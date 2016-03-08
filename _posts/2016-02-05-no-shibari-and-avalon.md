@@ -7,11 +7,12 @@ category:
  - shows
 ---
 
+
 The February Soap Box, our first event, featured performances from two innovative international shibari artists; Alberto No Shibari & Kuss, and Avalon & Laura Cylon.
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/hFI-rcXRcEg" frameborder="0" allowfullscreen></iframe>
-
-Scroll down to see photography from the performances at the
+<div class="video-wrapper">
+  <iframe src="https://player.vimeo.com/video/15404282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 # Alberto No Shibari & Kuss
 After starting as Shibari students emulating traditional techniques in their shows, Alberto No Shibari and Kuss began the search for a structure for their own performances. In this search, they translated the influence of the essential elements of Japanese bondage to the imagery and tradition of their own visual culture.
