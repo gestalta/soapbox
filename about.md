@@ -7,9 +7,9 @@ permalink: /about/
 The Soap Box is evening of curiosities curated by Gestalta and brought to you by Anatomie Studio.
 
 Dates for our 2016 events:
-5th February</br>
-1st April</br>
-June</br>
+5th February<br>
+1st April<br>
+June<br>
 August</br>
 October</br>
 December</br>
