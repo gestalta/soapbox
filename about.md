@@ -14,4 +14,6 @@ Dates for our 2016 events:<br>
 7th October<br>
 2nd December<br>
 
-For enquiries related to performances please contact [gestalta@soapboxshibari.com](mailto:gestalta@soapboxshibari.com)
+If you are an artist and are interested in this event please contact [info@gestalta.co.uk](mailto:info@gestalta.co.uk)
+
+For enquiries related to ticket sales, the venue, or attending an event please contact [anatomiestudio@gmail.com](mailto:anatomiestudio@gmail.com)
