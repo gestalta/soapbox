@@ -20,4 +20,4 @@ For enquiries related to ticket sales, the venue, or attending an event please c
 
 All the evenings take place at Anatomie Studio, 7 - 17 Latona Road, Peckham, London unless otherwise stated. (closest stations: Elephant and Castle / Peckham Rye).
 
-Website designed by Gestalta and created by [Russell](http://russelldunphy.com)
+Website designed by Gestalta and created by [Russell](http://rsslldnphy.com)
