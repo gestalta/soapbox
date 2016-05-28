@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The Soap Box is evening of curiosities curated by [Gestalta](http://www.kinbaku.gestalta.co.uk) and brought to you by [Anatomie Studio](http://anatomiestudio.com).
+The Soap Box is evening of curiosities curated by [Gestalta](http://gestalta.co.uk) and brought to you by [Anatomie Studio](http://anatomiestudio.com).
 
 **2016 dates:**<br>
 5th February<br>
@@ -14,7 +14,7 @@ The Soap Box is evening of curiosities curated by [Gestalta](http://www.kinbaku.
 7th October<br>
 2nd December<br>
 
-If you are an artist and are interested in this event please contact [info@gestalta.co.uk](mailto:info@gestalta.co.uk)
+Gestalta is always interested in hearing from artists and performers, and The Soap Box is not limited just to shibari! If you are an artist and are interested in taking part in this event please contact [info@gestalta.co.uk](mailto:info@gestalta.co.uk)
 
 For enquiries related to ticket sales, the venue, or attending an event please contact [anatomiestudio@gmail.com](mailto:anatomiestudio@gmail.com)
 
