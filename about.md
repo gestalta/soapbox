@@ -10,7 +10,6 @@ The Soap Box is evening of curiosities curated by [Gestalta](http://gestalta.co.
 5th February<br>
 1st April<br>
 3rd June<br>
-5th August<br>
 7th October<br>
 2nd December<br>
 
@@ -19,5 +18,3 @@ Gestalta is always interested in hearing from artists and performers, and The So
 For enquiries related to ticket sales, the venue, or attending an event please contact [anatomiestudio@gmail.com](mailto:anatomiestudio@gmail.com)
 
 All the evenings take place at Anatomie Studio, 7 - 17 Latona Road, Peckham, London unless otherwise stated. (closest stations: Elephant and Castle / Peckham Rye).
-
-Website designed by Gestalta and created by [Russell](http://rsslldnphy.com)
